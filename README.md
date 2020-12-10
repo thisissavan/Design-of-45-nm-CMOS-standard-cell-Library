@@ -7,3 +7,8 @@
 - Measured the rising and falling delay of the output.
 -	Also measured rising and falling propagation delay.
 -	Making sure to use minimum area for every layout.
+
+
+#### Software Used: Cadence Virtuoso
+#### Time Frame: Oct 2019 
+#### Course : Design of Digital systems ( EE620 )
